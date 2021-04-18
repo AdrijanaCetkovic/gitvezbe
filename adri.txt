@@ -1,1 +1,2 @@
 var ret = 1;
+var razred= [ivan,dijana,marko,ljilja,mira,nikola,goran,dusan,goran,adri];
